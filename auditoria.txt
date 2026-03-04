@@ -1,0 +1,6 @@
+RESUMEN DE AUDITORÍA
+====================
+Registros extraídos de la API https://jsonplaceholder.typicode.com/users: 10
+Registros guardados en la DB de SQLite3: 10
+
+ESTADO: Operacion Exitosa.
