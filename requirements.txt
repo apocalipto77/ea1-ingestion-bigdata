@@ -1,4 +1,6 @@
 requests
 pandas
+numpy
 openpyxl
+sqlite3
 
