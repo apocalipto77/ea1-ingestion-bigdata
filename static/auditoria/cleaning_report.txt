@@ -1,0 +1,5 @@
+LIMPIEZA EA2
+Registros antes: 10
+Duplicados eliminados: 0
+Nulos eliminados: 0
+Registros limpios: 10
