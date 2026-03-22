@@ -1,0 +1,25 @@
+name: Ingesta Datos API
+
+on: [push, workflow_dispatch]
+
+jobs:
+  ingesta:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+    - name: Run script
+      run: python ea1_ejemplo_ingestion_de_datos_desde_un_api.py
+    - name: Upload artifacts
+      uses: actions/upload-artifact@v4
+      with:
+        name: evidencias
+        path: |
+          datos_api.db
+          muestra_usuarios.csv
+          auditoria.txt
