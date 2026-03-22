@@ -9,10 +9,10 @@ jobs:
       with:
         python-version: '3.12'
     - run: pip install pandas numpy openpyxl
-    - run: python src/db/cleaning.py
+    - run: python src/cleaning.py
     - uses: actions/upload-artifact@v4
       with:
         name: datos-limpios
         path: |
-          xlsx/cleaned_data.xlsx
-          static/auditoria/cleaning_report.txt
+          src/xlsx/cleaned_data.xlsx
+          src/static/auditoria/cleaning_report.txt
