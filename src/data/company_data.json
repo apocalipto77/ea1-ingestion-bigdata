@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "empresa": "Acme Corp",
+    "departamento": "IT",
+    "puesto": "Senior Developer"
+  },
+  {
+    "id": 2,
+    "empresa": "Tech Solutions",
+    "departamento": "Backend",
+    "puesto": "Backend Engineer"
+  },
+  {
+    "id": 3,
+    "empresa": "Innovatech",
+    "departamento": "Frontend",
+    "puesto": "Frontend Lead"
+  },
+  {
+    "id": 4,
+    "empresa": "Digital Hub",
+    "departamento": "Cloud",
+    "puesto": "Cloud Architect"
+  },
+  {
+    "id": 5,
+    "empresa": "Data Systems",
+    "departamento": "Analytics",
+    "puesto": "Data Scientist"
+  },
+  {
+    "id": 6,
+    "empresa": "Code Factory",
+    "departamento": "QA",
+    "puesto": "QA Manager"
+  },
+  {
+    "id": 7,
+    "empresa": "Web Devs Inc",
+    "departamento": "Frontend",
+    "puesto": "UI/UX Designer"
+  },
+  {
+    "id": 8,
+    "empresa": "Cloud Native",
+    "departamento": "DevOps",
+    "puesto": "DevOps Engineer"
+  },
+  {
+    "id": 9,
+    "empresa": "AI Solutions",
+    "departamento": "Research",
+    "puesto": "ML Engineer"
+  },
+  {
+    "id": 10,
+    "empresa": "Cyber Secure",
+    "departamento": "Security",
+    "puesto": "Security Officer"
+  }
+]

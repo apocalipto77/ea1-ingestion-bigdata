@@ -3,4 +3,5 @@ pandas
 numpy
 openpyxl
 sqlite3
+lxml
 

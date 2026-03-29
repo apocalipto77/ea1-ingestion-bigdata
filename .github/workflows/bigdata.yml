@@ -8,11 +8,14 @@ jobs:
     - uses: actions/setup-python@v5
       with:
         python-version: '3.12'
-    - run: pip install pandas numpy openpyxl
-    - run: python src/cleaning.py
+    - run: pip install pandas numpy openpyxl lxml
+    - run: echo "=== Ejecutando EA2: Limpieza ===" && python src/cleaning.py
+    - run: echo "=== Ejecutando EA3: Enriquecimiento ===" && python src/enrichment.py
     - uses: actions/upload-artifact@v4
       with:
-        name: datos-limpios
+        name: datos-procesados
         path: |
           src/xlsx/cleaned_data.xlsx
+          src/xlsx/enriched_data.xlsx
           src/static/auditoria/cleaning_report.txt
+          src/static/auditoria/enrichment_report.txt

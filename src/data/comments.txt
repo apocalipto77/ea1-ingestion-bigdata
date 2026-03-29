@@ -1,0 +1,67 @@
+COMENTARIOS Y NOTAS DE USUARIOS
+================================================================================
+
+ID 1 - Bret:
+- Empleado destacado con 8 años de experiencia
+- Especialista en soluciones backend
+- Certificación en AWS (2024)
+- Disponibilidad: Tiempo completo
+
+ID 2 - Antonette:
+- Ingeniero con fuerte experiencia en arquitectura de microservicios
+- Liderazgo en equipo de 5 desarrolladores
+- Capacitación en Spring Boot completada
+- Disponibilidad: Remoto
+
+ID 3 - Samantha:
+- Experta frontend con portafolio destacado
+- Desarrolladora especializada en React y Vue.js
+- Proyecto personal destacado: Landing page para startup
+- Disponibilidad: Híbrido
+
+ID 4 - Karianne:
+- Arquitecto en la nube con experiencia en AWS y GCP
+- Certificación CKA (Kubernetes)
+- Mentor en programa de jóvenes talentos
+- Disponibilidad: Tiempo completo
+
+ID 5 - Kamren:
+- Científico de datos con formación en estadística
+- Publicaciones en análisis de big data
+- Certificación en scikit-learn y pandas
+- Disponibilidad: Flexible
+
+ID 6 - Leopoldo_Corkery:
+- QA Manager con experiencia en automatización
+- Implementación de framework de testing
+- Certificación en Selenium y pytest
+- Disponibilidad: Tiempo completo
+
+ID 7 - Elwyn.Skiles:
+- Diseñador UX/UI con portfol io en Dribbble
+- Especialista en usabilidad web
+- Certificación en UX Research
+- Disponibilidad: Freelance
+
+ID 8 - Maxime_Nienow:
+- DevOps Engineer con 7 años en infraestructura cloud
+- Experto en Docker y Kubernetes
+- Certificación Docker DCA
+- Disponibilidad: Tiempo completo
+
+ID 9 - Delphine:
+- Machine Learning Engineer especializado en NLP
+- Publicaciones en conferencias de AI
+- Experiencia con TensorFlow y PyTorch
+- Disponibilidad: Remoto
+
+ID 10 - Moriah.Stanton:
+- Oficial de seguridad con 9 años de experiencia
+- Certificación CISSP (2023)
+- Especialista en firewall y VPN
+- Disponibilidad: Tiempo completo
+
+================================================================================
+Fecha de generación: 2026-03-29
+Fuente: Sistema de recursos humanos
+Total de registros: 10

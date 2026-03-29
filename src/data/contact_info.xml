@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<contactos>
+  <contacto>
+    <id>1</id>
+    <direccion>123 Main St</direccion>
+    <codigo_postal>10001</codigo_postal>
+  </contacto>
+  <contacto>
+    <id>2</id>
+    <direccion>456 Oak Ave</direccion>
+    <codigo_postal>90001</codigo_postal>
+  </contacto>
+  <contacto>
+    <id>3</id>
+    <direccion>789 Pine Rd</direccion>
+    <codigo_postal>60601</codigo_postal>
+  </contacto>
+  <contacto>
+    <id>4</id>
+    <direccion>321 Elm St</direccion>
+    <codigo_postal>77001</codigo_postal>
+  </contacto>
+  <contacto>
+    <id>5</id>
+    <direccion>654 Maple Drive</direccion>
+    <codigo_postal>85001</codigo_postal>
+  </contacto>
+  <contacto>
+    <id>6</id>
+    <direccion>987 Cedar Lane</direccion>
+    <codigo_postal>19101</codigo_postal>
+  </contacto>
+  <contacto>
+    <id>7</id>
+    <direccion>147 Birch Blvd</direccion>
+    <codigo_postal>78201</codigo_postal>
+  </contacto>
+  <contacto>
+    <id>8</id>
+    <direccion>258 Spruce Way</direccion>
+    <codigo_postal>92101</codigo_postal>
+  </contacto>
+  <contacto>
+    <id>9</id>
+    <direccion>369 Willow Ct</direccion>
+    <codigo_postal>75201</codigo_postal>
+  </contacto>
+  <contacto>
+    <id>10</id>
+    <direccion>741 Ash Court</direccion>
+    <codigo_postal>95101</codigo_postal>
+  </contacto>
+</contactos>
